@@ -1,8 +1,9 @@
 body {
-	background-color: black;
+	background-color:black;
 }
 
 h1 {
+	background-color:black;
 	color:white;
 	font-family:monospace;
 	font-size:750%;
@@ -11,12 +12,14 @@ h1 {
 }
 
 h2 {
+	background-color:black;
 	color:white;
 	font-family:courier;
 	text-align:center;
 }
 
 h3 {
+	background-color:black;
 	color:white;
 	font-family:courier;
 	font-size:100%;
@@ -24,6 +27,7 @@ h3 {
 }
 
 p {
+	background-color:black;
 	color:white;
 	font-family:courier;
 	text-align:center;
